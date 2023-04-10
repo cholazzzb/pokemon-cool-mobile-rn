@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pokemon-cool-mobile",
+    "slug": "pokemon-cool-mobile",
+    "extra": {
+      "eas": {
+        "projectId": "c1531b5e-1427-48c0-bc7c-b8e2f97aba30"
+      }
+    }
+  }
+}
